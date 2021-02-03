@@ -53,6 +53,17 @@ footer {
     grid-gap : 50px;
 }
 
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
 .credits {
     text-align: right;
+}
+
+.joke {
+    font-size: 50px;
+    font-weight: bold;
+    cursor: url(../imgs/raincloud.png), auto;
 }
